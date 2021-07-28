@@ -1,6 +1,6 @@
 # KG-RecSys
 
-I read some papers about Knowledge Graph applied in Recommender System, and write the summary of these paper.
+I read some papers about Knowledge Graph applied in Recommender System, and write the summary of these papers.
 For better reading the LaTeX math equation, please read *.ipynb.  
 
 ***
